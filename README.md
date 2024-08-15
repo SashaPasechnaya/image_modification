@@ -4,10 +4,10 @@ To use it you need to load weights for this three models https://drive.google.co
 Also if you want to take a look at the model's architecture just see files cyclegan-final.ipynb for uncontroled style tranfer,  pix2pix.ipynb for colorization and super-resolution.ipynb for image enhancement. 
 You can watch the demo using this link https://drive.google.com/file/d/1-MIipetYYuXljr0LFZF2awZfHvrXnvdC/view?usp=sharing.
 
-Image Modification Project
+Image Modification Project  
 This project provides a GUI application for performing image modification tasks such as colorization, image enhancement, and style transfer. The application utilizes pre-trained deep learning models for these tasks.
 
-Features 
+Features  
 Colorization: Convert grayscale images to color using the Pix2Pix model.  
 Image Enhancement: Improve the resolution and quality of images using the Super-Resolution model.  
 Style Transfer: Apply artistic styles to images using the CycleGAN model.  
