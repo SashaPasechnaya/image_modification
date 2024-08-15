@@ -23,7 +23,7 @@ Download the model weights from [this link](https://drive.google.com/drive/u/0/f
 Save the downloaded weights in the appropriate directory within the project.
 Load Model Files: 
 
-Ensure the following model files are in the same directory: 
+Ensure the following model files are in the same directory:   
 model1.py  
 model2.py  
 model3.py  
