@@ -16,6 +16,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/SashaPasechnaya/image_modification
 cd image_modification
+```
 Download Pre-trained Model Weights:
 
 Download the model weights from [this link](https://drive.google.com/drive/u/0/folders/1r51zLYyVSANfB-zXt7ram04rkV6msQIR).
