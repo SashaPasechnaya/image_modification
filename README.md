@@ -13,6 +13,7 @@ Image Enhancement: Improve the resolution and quality of images using the Super-
 Style Transfer: Apply artistic styles to images using the CycleGAN model.
 Installation
 Clone the repository:
+```bash
 git clone https://github.com/SashaPasechnaya/image_modification
 cd image_modification
 Download Pre-trained Model Weights:
